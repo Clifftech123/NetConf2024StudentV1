@@ -1,0 +1,6 @@
+@NetConf2024StudentV1_HostAddress = http://localhost:5213
+
+GET {{NetConf2024StudentV1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
